@@ -37,6 +37,7 @@ public class MainActivity extends RoboActionBarActivity {
     Button btnNew;
     @Inject
     LayoutInflater inflater;
+    // Hello World
 
     /**
      * --------------------------------------------------
